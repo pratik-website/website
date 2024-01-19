@@ -19,21 +19,19 @@
     <item>
       <title>Movies Analysis</title>
       <link>https://pratik-website.github.io/website/post/movies_analysis/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pratik-website.github.io/website/post/movies_analysis/</guid>
       <description>This project was part of my Youtube channel where I build a yahoo finance web-scrapper to get stock prices from yahoo finance, This project was inspired as I was actively investing in the stock market and needed to automate the process to get and analyse data faster for various companies. The yahoo fin package help solves that huddle as it allow to automate the process through a script written in python.</description>
     </item>
     
     <item>
-      <title>Movie Recommendation Systems</title>
-      <link>https://pratik-website.github.io/website//post/movie_recommendation/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Tableau Projects</title>
+      <link>https://pratik-website.github.io/website//post/tableau_project/</link>
+      <pubDate>12 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pratik-website.github.io/website//post/movie_recommendation/</guid>
-      <description>This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
-The main reason behind carrying out this research was to understand how big tech companies recommend items to its users, companies like Amazon, Netflix, Spotify and many more use recommendation systems to recommend items to its users on a daily basis.
-Overview Recommendation system work on the principal of &amp;ldquo;homophily&amp;rdquo; which means similar users prefer similar items, this means that companies are able to accurately predict which users is most likely to buy something / watch something.</description>
+      <guid>https://pratik-website.github.io/website//post/tableau_project/</guid>
+      <description>Making Dashboards in Tableau</description>
     </item>
     
   </channel>
