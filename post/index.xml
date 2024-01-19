@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ronit Malik</title>
-    <link>https://pratik-website.github.io/website//post/</link>
-    <description>Recent content in Projects on Ronit Malik</description>
+    <title>Projects on Pratik Patel</title>
+    <link>https://pratik-website.github.io/website/post/</link>
+    <description>Recent content in Projects on Pratik Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon Price Tracker</title>
-      <link>https://pratik-website.github.io/website//post/amazon_price_scrapper/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://pratik-website.github.io/website/post/python_scraper/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pratik-website.github.io/website//post/amazon_price_scrapper/</guid>
-      <description>This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. The way the model works is you add a link to the amazon product and the price you&amp;rsquo;re willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert.</description>
+      <guid>https://pratik-website.github.io/website//post/python_scraper/</guid>
+      <description>This was a personal project where I used Python to build a price scraper. The two hottest commodities right now are Stanley Cups and Cryptocurrencies. There are two parts to this project. First, I worked on using BeautifulSoup to scrape the prices of Stanley Cups on Amazon. It will check the price every five seconds. The output is put into a csv file. This entire process automated. For the cryptocurrencies, I used the CoinMarketCap API to pull in the data. Same as the Stanley's, the information is turned into a csv. For this part of the project, I made a visual using Tableau.</description>
     </item>
     
     <item>
-      <title>Yahoo Finance Web Scrapper</title>
-      <link>https://pratik-website.github.io/website//post/yahoo_fin_web_scrapper/</link>
+      <title>Movies Analysis</title>
+      <link>https://pratik-website.github.io/website/post/movies_analysis/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pratik-website.github.io/website//post/yahoo_fin_web_scrapper/</guid>
+      <guid>https://pratik-website.github.io/website/post/movies_analysis/</guid>
       <description>This project was part of my Youtube channel where I build a yahoo finance web-scrapper to get stock prices from yahoo finance, This project was inspired as I was actively investing in the stock market and needed to automate the process to get and analyse data faster for various companies. The yahoo fin package help solves that huddle as it allow to automate the process through a script written in python.</description>
     </item>
     
