@@ -24,7 +24,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=/"
+                href="/"
                 />
   </url><url>
     <loc>https://ronitmalik.github.io/Portfolio/tags/price/</loc>
@@ -99,12 +99,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="fr/post/"
+                href="/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="post/"
+                href="/post/"
                 />
   </url><url>
     <loc>/about/</loc>
@@ -117,7 +117,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -131,12 +131,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="fr/contact/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="contact/"
+                href="/contact/"
                 />
   </url>
 </urlset>
