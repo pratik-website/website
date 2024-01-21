@@ -1,5 +1,6 @@
 {
-    "redirects": [
-      { "source": "/index.html", "destination": "/", "statusCode": 301 }
-    ]
-  }
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 301, "headers": { "Location": "/$1" } }
+  ]
+}
