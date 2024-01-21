@@ -1,5 +1,6 @@
 {
-  "routes": [
+  "rewrites": [
+    { "source": "/index.html", "destination": "/" },
     { "handle": "filesystem" },
     { "src": "/(.*)", "status": 301, "headers": { "Location": "/$1" } }
   ]
